@@ -1,0 +1,22 @@
+{
+  "name": "practice-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanheer/practice-webpack.git"
+  },
+  "author": "fanheer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanheer/practice-webpack/issues"
+  },
+  "homepage": "https://github.com/fanheer/practice-webpack#readme",
+  "dependencies": {
+    "webpack": "^5.75.0"
+  }
+}
